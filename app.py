@@ -35,7 +35,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("📄 PDF Query using LangChain + Groq + Astra DB")
+st.title("📄 PDF Analyser")
 
 pdf = st.file_uploader(
     "Upload PDF",
